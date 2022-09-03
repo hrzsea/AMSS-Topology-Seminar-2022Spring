@@ -1,12 +1,12 @@
-# Welcome to the AMSS Topology Seminar Website 
+# This page records the AMSS Topology Seminar in Spring Semester 2022
 
-### Spring Semester 2022
+（return to homepage of [AMSS Topology Seminar](https://hrzsea.github.io/AMSS-Topology-Seminar/)）
 
--------------------------------------------------------------------------------------------
 
-## <font color=DeepSkyBlue size=5 face="黑体">Upcoming Talks</font>
 
--------------------------------------------------------------------------------------------
+
+
+
 
 ### <font color=Peru size=3> 何思奇（AMSS）</font>
 
@@ -24,15 +24,6 @@ Abstract: Z2 harmonic 1-forms are a higher-dimensional generalization of quadrat
 -------------------------------------------------------------------------------------------
 
 
-
-## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
-
--	[Autumn Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Autumn/) 
--	[Spring Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Spring/) 
-
--	Historical talks in this semester：
-
--------------------------------------------------------------------------------------------
 ### <font color=Peru size=3> 王炜飙（北京大学）</font>
 
 ### <font color=LightCoral size=3>Time: 14：30-16：30, Apr. 27, 2022</font>
